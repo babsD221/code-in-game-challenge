@@ -1,2 +1,2 @@
 # code-in-game-challenge
-code in game challenges solutions
+Code in game solutions
